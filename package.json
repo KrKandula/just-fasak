@@ -13,5 +13,14 @@
   "license": "MIT",
   "dependencies": {
     "play-sound": "^1.1.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrKandula/just-fasak.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KrKandula/just-fasak/issues"
+  },
+  "homepage": "https://github.com/KrKandula/just-fasak#readme"
 }
