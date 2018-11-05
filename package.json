@@ -1,0 +1,17 @@
+{
+  "name": "just-fasak",
+  "version": "1.0.0",
+  "description": "Plays funny fasak audio created by created by DJ HARISH THATIBOINA",
+  "main": "index.js",
+  "keywords": [
+    "funny",
+    "silly",
+    "crazy",
+    "stressbuster"
+  ],
+  "author": "krissh Kandula",
+  "license": "MIT",
+  "dependencies": {
+    "play-sound": "^1.1.2"
+  }
+}
