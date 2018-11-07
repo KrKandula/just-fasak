@@ -5,7 +5,11 @@ It is already thoroughly answered out on the internet. Read [here](https://www.q
 About Package
 =============
 If you feeling silly or stressed or biting nails in between builds, just-fasak. Use earphones though.
-When you run this package it simply runs a audio file that comes with it.
+When you run this package it simply runs the funny audio file that comes with it.
+
+Running it
+===========
+Run "npx just-fasak" from command line.
 
 Credits
 =======
